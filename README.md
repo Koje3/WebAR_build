@@ -1,1 +1,1 @@
-## Personal testbuild of the Creatures webAR app.
+## Personal test build of the Creatures webAR app.
